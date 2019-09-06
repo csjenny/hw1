@@ -1,0 +1,31 @@
+
+header, section, article, footer {
+	display: block;
+	text-align: center;
+}
+
+.hw {
+	margin: 200px;
+  
+}
+
+body {
+	background-color: yellow;
+ 
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: red;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.hwlist {
+	list-style-type: none;
+}
